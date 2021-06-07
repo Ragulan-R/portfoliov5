@@ -4864,7 +4864,7 @@ h2 {
   position: relative;
   display: inline-block;
 }
-.h2:after,
+/* .h2:after,
 .h2:before,
 h2:after,
 h2:before {
@@ -4881,7 +4881,7 @@ h2:before {
 .h2:after,
 h2:after {
   right: 0;
-}
+} */
 @media (min-width: 992px) {
   .h2,
   h2 {
